@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails showtime: development" uuid="e74d9cfa-0bd9-4c4e-8ce7-c745a7c1efe0">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails showtime: test" uuid="a04d3a6f-0c94-480f-9293-1bcb173ea1fc">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails showtime: cucumber" uuid="b3fb561c-5e91-493b-a956-5b2d731eb163">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
